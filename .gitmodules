@@ -1,0 +1,3 @@
+[submodule "vulcan-parisjs-2018"]
+	path = vulcan-parisjs-2018
+	url = https://github.com/apollinaire/vulcan-parisjs-slides.git
